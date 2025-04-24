@@ -1,9 +1,9 @@
 import React from 'react'
-import Home from './pages/Home/Home'
+import H
 const App = () => {
   return (
     <div>
-      <Home />
+      hi
     </div>
   )
 }
